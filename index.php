@@ -2,7 +2,7 @@
 // Connect to the database
 $servername = 'localhost';
 $username = 'root';
-$password = 'put here DB PW';
+$password = 'batabase PW';
 $dbname = 'put here DB name';
 
 $conn = new mysqli($servername, $username, $password, $dbname);
